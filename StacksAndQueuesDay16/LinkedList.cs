@@ -2,7 +2,7 @@
 
 namespace StacksAndQueuesDay16
 {
-    public class LinkedList
+    public class LinkedListStack
     {
         Node top;
         public LinkedList()
@@ -32,6 +32,35 @@ namespace StacksAndQueuesDay16
                 while (temp != null)
                 {
                     Console.Write("{0}->", temp.data);
+                    temp = temp.next;
+                }
+            }
+        }
+        public void peek()
+        {
+            if (top == null)
+            {
+                Console.WriteLine("Stack is empty");
+            }
+            else
+            {
+                Console.WriteLine(top.data);
+            }
+        }
+        public void Pop()
+        {
+            if (top == null)
+            {
+                Console.Write("stack is empty");
+                return;
+            }
+            else
+            {
+                Node temp = top;
+                while (temp != null)
+                {
+                    Console.Write("{0}->", temp.data);
+                    // assign temp link to temp 
                     temp = temp.next;
                 }
             }

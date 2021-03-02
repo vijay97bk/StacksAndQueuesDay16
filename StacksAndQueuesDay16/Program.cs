@@ -8,13 +8,17 @@ namespace StacksAndQueuesDay16
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to stacks and queue");
-            LinkedList list = new LinkedList();
-            //UC-1
-            Console.WriteLine("Pushing nodes in stack");
+            LinkedListStack list = new LinkedListStack();
+ 
+            Console.WriteLine("Push Stack");
             list.Push(70);
             list.Push(30);
             list.Push(56);
             list.Display();
+
+            
+            list.peek();
+            list.Pop();
             Console.ReadLine();
         }
     }
