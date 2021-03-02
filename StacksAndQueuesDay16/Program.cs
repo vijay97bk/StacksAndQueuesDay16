@@ -26,6 +26,9 @@ namespace StacksAndQueuesDay16
             queue.Enqueue(56);
             queue.Enqueue(30);
             queue.Enqueue(70);
+
+            //UC4
+                 queue.Dequeue();
             Console.ReadLine();
         }
     }

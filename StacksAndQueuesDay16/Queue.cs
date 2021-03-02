@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StacksAndQueuesDay16
 {
-   public class Queue
+    public class Queue
     {
         private Node front;
         private Node rear;
@@ -31,7 +31,7 @@ namespace StacksAndQueuesDay16
         }
         public void Dequeue()
         {
-            // If queue is empty, return NULL. 
+
             if (this.front == null)
                 return;
             Node temp = this.front;
@@ -39,5 +39,6 @@ namespace StacksAndQueuesDay16
             if (this.front == null)
                 this.rear = null;
         }
+       
     }
 }
