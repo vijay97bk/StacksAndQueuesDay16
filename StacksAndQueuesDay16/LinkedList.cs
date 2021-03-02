@@ -5,7 +5,7 @@ namespace StacksAndQueuesDay16
     public class LinkedListStack
     {
         Node top;
-        public LinkedList()
+        public LinkedListStack()
         {
             this.top = null;
         }

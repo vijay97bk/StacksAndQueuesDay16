@@ -8,6 +8,8 @@ namespace StacksAndQueuesDay16
     {
         public int data;
         public Node next;
+        public Node front, rear;
+
 
         public Node(int data)
         {

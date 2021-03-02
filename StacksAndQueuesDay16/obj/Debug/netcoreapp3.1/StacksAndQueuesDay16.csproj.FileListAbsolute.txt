@@ -1,0 +1,13 @@
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.csprojAssemblyReference.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.AssemblyInfoInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.AssemblyInfo.cs
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\bin\Debug\netcoreapp3.1\StacksAndQueuesDay16.exe
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\bin\Debug\netcoreapp3.1\StacksAndQueuesDay16.deps.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\bin\Debug\netcoreapp3.1\StacksAndQueuesDay16.runtimeconfig.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\bin\Debug\netcoreapp3.1\StacksAndQueuesDay16.runtimeconfig.dev.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\bin\Debug\netcoreapp3.1\StacksAndQueuesDay16.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\bin\Debug\netcoreapp3.1\StacksAndQueuesDay16.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\CORE\StacksAndQueuesDay16\StacksAndQueuesDay16\obj\Debug\netcoreapp3.1\StacksAndQueuesDay16.genruntimeconfig.cache
