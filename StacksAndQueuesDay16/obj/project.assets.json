@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vijay Kshirasagar\\source\\repos\\StacksAndQueuesDay16\\StacksAndQueuesDay16\\StacksAndQueuesDay16.csproj",
+      "projectUniqueName": "C:\\Users\\Vijay Kshirasagar\\Desktop\\C# Work\\CORE\\StacksAndQueuesDay16\\StacksAndQueuesDay16\\StacksAndQueuesDay16.csproj",
       "projectName": "StacksAndQueuesDay16",
-      "projectPath": "C:\\Users\\Vijay Kshirasagar\\source\\repos\\StacksAndQueuesDay16\\StacksAndQueuesDay16\\StacksAndQueuesDay16.csproj",
+      "projectPath": "C:\\Users\\Vijay Kshirasagar\\Desktop\\C# Work\\CORE\\StacksAndQueuesDay16\\StacksAndQueuesDay16\\StacksAndQueuesDay16.csproj",
       "packagesPath": "C:\\Users\\Vijay Kshirasagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vijay Kshirasagar\\source\\repos\\StacksAndQueuesDay16\\StacksAndQueuesDay16\\obj\\",
+      "outputPath": "C:\\Users\\Vijay Kshirasagar\\Desktop\\C# Work\\CORE\\StacksAndQueuesDay16\\StacksAndQueuesDay16\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vijay Kshirasagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
